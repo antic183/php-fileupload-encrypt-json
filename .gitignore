@@ -1,0 +1,5 @@
+.htaccess
+vendor/
+customerData.php
+prepareDownload.php
+composer.lock
