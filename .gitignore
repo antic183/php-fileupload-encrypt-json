@@ -1,5 +1,6 @@
 .htaccess
 vendor/
+upload/*
 customerData.php
 prepareDownload.php
 composer.lock
